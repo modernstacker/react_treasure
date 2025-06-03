@@ -47,7 +47,7 @@ const User = () => {
 };
 ```
 
-In the `UserDetails` component we want to access the user data and modify it.
+In the `UserDetails` component we want to access the user data and modify it .
 
 ```jsx
 import React from 'react';
